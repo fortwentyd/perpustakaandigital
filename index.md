@@ -9,5 +9,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 5. [Kue_Kesukaan_Tama](ebook/Kue_Kesukaan_Tama.pdf) Eni Wulansari (2019)
 6. [Biji_Merah_Luna_Diksus](ebook/Biji_Merah_Luna_Diksus.pdf) Ammy Kudo (2019)
 7. [Dasar_Teknik_Kapal](ebook/Dasar_Teknik_Kapal.pdf) Danang Kurniawan (2023)
+8. [Kue_Kimu](ebook/Kue_Kimu.pdf) Lia Herliana (2022)
 
 *Powered by GitHub Pages*
