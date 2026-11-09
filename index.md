@@ -11,6 +11,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Dasar_Teknik_Kapal](ebook/Dasar_Teknik_Kapal.pdf) Danang Kurniawan (2023)
 8. [Kue_Kimu](ebook/Kue_Kimu.pdf) Lia Herliana (2022)
 9. [Panduan_Musik](ebook/Panduan_Musik.pdf) Naning Widayanti (2025)
-10. [Cari_Aku](ebook/Cari_aku.pdf) Evellyn Ghozalli (2019)
+10. [Cari_Aku](ebook/Cari_Aku.pdf) Evellyn Ghozalli (2019)
 
 *Powered by GitHub Pages*
