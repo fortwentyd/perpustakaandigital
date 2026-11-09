@@ -7,5 +7,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 3. [Anak_anak_Hujan](ebook/Anak_anak_Hujan.pdf) Musrifah Medkom (2024)
 4. [Di_Mana_Ikanku](ebook/Di_Mana_Ikanku.pdf) Puspa Im (2024)
 5. [Kue_Kesukaan_Tama](ebook/Kue_Kesukaan_Tama.pdf) Eni Wulansari (2019)
+6. [Biji_Merah_Luna_Diksus](ebook/Biji_Merah_Luna_Diksus)Ammy Kudo (2019)
 
 *Powered by GitHub Pages*
