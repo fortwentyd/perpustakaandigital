@@ -12,5 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Kue_Kimu](ebook/Kue_Kimu.pdf) Lia Herliana (2022)
 9. [Panduan_Musik](ebook/Panduan_Musik.pdf) Naning Widayanti (2025)
 10. [Cari_Aku](ebook/Cari_Aku.pdf) Evellyn Ghozalli (2019)
+11. [UGC_Ringkasan_M.Adrian](ebook/UGC_Ringkasan_M.Adrian.pdf) Muhammad Adrian (2026)
 
 *Powered by GitHub Pages*
