@@ -10,6 +10,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 6. [Biji_Merah_Luna_Diksus](ebook/Biji_Merah_Luna_Diksus.pdf) Ammy Kudo (2019)
 7. [Dasar_Teknik_Kapal](ebook/Dasar_Teknik_Kapal.pdf) Danang Kurniawan (2023)
 8. [Kue_Kimu](ebook/Kue_Kimu.pdf) Lia Herliana (2022)
-9. [Panduan_Musik](ebook/Panduan_Musik) Naning Widayanti (2025)
+9. [Panduan_Musik](ebook/Panduan_Musik.pdf) Naning Widayanti (2025)
 
 *Powered by GitHub Pages*
