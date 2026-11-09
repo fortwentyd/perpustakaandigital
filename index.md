@@ -3,6 +3,6 @@ Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [mel](ebook/mel.pdf) – adrian (2020) 
-2. Contoh buku lain
+2. [Bahasa_Indonesia](ebook/Bahasa_Indonesia.pdf) - kemendikbud
 ---
 *Powered by GitHub Pages*
